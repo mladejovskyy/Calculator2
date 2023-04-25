@@ -1,0 +1,10 @@
+X:\PRG\kalkulacka2\kalkulacka2\bin\Debug\kalkulacka2.exe.config
+X:\PRG\kalkulacka2\kalkulacka2\bin\Debug\kalkulacka2.exe
+X:\PRG\kalkulacka2\kalkulacka2\bin\Debug\kalkulacka2.pdb
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.csproj.AssemblyReference.cache
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.Form1.resources
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.Properties.Resources.resources
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.csproj.GenerateResource.cache
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.csproj.CoreCompileInputs.cache
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.exe
+X:\PRG\kalkulacka2\kalkulacka2\obj\Debug\kalkulacka2.pdb
